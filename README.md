@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-🔭 I’m currently working on HTML , CSS & Javascript
-🔮 I develop projects with HTML , CSS & Javascript
-🌱 I’m currently learning React & React Native 
-📫 How can you reach me ozgunakcay1@gmail.com
+-🔭 I’m currently working on HTML , CSS & Javascript
+
+-🔮 I develop projects with HTML , CSS & Javascript
+
+-🌱 I’m currently learning React & React Native 
+
+-📫 How can you reach me ozgunakcay1@gmail.com
 
 
 
