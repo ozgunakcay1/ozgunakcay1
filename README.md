@@ -4,7 +4,7 @@
 
 -🔮 I develop projects with HTML , CSS & Javascript
 
--🌱 I’m currently learning React & React Native 
+-🌱 I’m currently learning React & React Native & Redux
 
 -📫 How can you reach me ozgunakcay1@gmail.com
 
